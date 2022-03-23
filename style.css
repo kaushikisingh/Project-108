@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(224, 139, 28);
+}
+.header_div{
+    background: rgb(137, 207, 24);
+    color: rgb(209, 49, 21);
+}
+p{
+    font-style: normal;
+    letter-spacing: 2px;
+    color: rgb(29, 26, 226);
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    background: rgb(156, 39, 103);
+    width: 100%;
+    color: white;
+    font-size: 20px;
+    text-shadow: 4px 4px 4px grey;
+}
